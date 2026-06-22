@@ -1,0 +1,6 @@
+{
+  "name": "HA Climate Coordinator",
+  "domains": ["climate_coordinator"],
+  "iot_class": "local_push",
+  "render_readme": true
+}
