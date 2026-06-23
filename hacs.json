@@ -1,6 +1,8 @@
 {
   "name": "HA Climate Coordinator",
-  "domains": ["climate_coordinator"],
+  "domains": ["climate"],
   "iot_class": "local_push",
-  "render_readme": true
+  "render_readme": true,
+  "homeassistant": "2023.6.0",
+  "hacs": "1.34.0"
 }
