@@ -27,7 +27,7 @@ between devices.
 
 1. In HACS, go to **Integrations** and click the three-dot menu →
    **Custom repositories**
-2. Add `https://github.com/MattDoubleYoi/ha-climate-coordinator`
+2. Add `https://github.com/MattDoubleYou/ha-climate-coordinator`
    with category **Integration**
 3. Install **HA Climate Coordinator** from HACS
 4. Restart Home Assistant
